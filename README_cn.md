@@ -1,4 +1,4 @@
-# M5 PoE_CAM Ethernet 依赖库
+# M5 PoE_CAM Ethernet  Arduino 依赖库
 
 中文 | [English](README_cn.md)
 

@@ -1,4 +1,4 @@
-# M5 PoE_CAM Ethernet Library
+# M5 PoE_CAM Ethernet Arduino Library
 
 English | [中文](README_cn.md)
 
