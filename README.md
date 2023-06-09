@@ -1,4 +1,4 @@
-# PoE_CAM
+# M5 PoE_CAM Ethernet Library
 
 English | [中文](README_cn.md)
 
