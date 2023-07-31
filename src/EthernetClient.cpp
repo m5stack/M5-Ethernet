@@ -19,7 +19,7 @@
  */
 
 #include <Arduino.h>
-#include "Ethernet.h"
+#include "M5_Ethernet.h"
 #include "Dns.h"
 #include "utility/w5100.h"
 

@@ -2,7 +2,7 @@
 // Author: Jordan Terrell - blog.jordanterrell.com
 
 #include <Arduino.h>
-#include "Ethernet.h"
+#include "M5_Ethernet.h"
 #include "Dhcp.h"
 #include "utility/w5100.h"
 

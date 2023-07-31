@@ -1,16 +1,16 @@
 {
-  "name": "PoE_CAM-Ethernet",
-  "description": "Library for M5Stack PoE-CAM Ethernet development kit",
-  "keywords": "PoE CAM W5500",
+  "name": "M5-Ethernet",
+  "description": "Library for M5Stack Ethernet development kit",
+  "keywords": "W5500",
   "authors": {
     "name": "M5Stack",
     "url": "http://www.m5stack.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/m5stack/PoE_CAM-Ethernet.git"
+    "url": "https://github.com/m5stack/M5-Ethernet.git"
   },
-  "version": "3.0.0",
+  "version": "4.0.0",
   "frameworks": "arduino",
   "platforms": "espressif32"
 }

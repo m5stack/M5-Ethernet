@@ -19,7 +19,7 @@
  */
 
 #include <SPI.h>
-#include <Ethernet.h>
+#include <M5_Ethernet.h>
 #include <EthernetUdp.h>
 
 // Enter a MAC address for your controller below.

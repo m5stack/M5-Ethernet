@@ -23,7 +23,7 @@
  */
 
 #include <SPI.h>
-#include <Ethernet.h>
+#include <M5_Ethernet.h>
 
 // assign a MAC address for the ethernet controller.
 // fill in your address here:

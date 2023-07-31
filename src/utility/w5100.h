@@ -29,9 +29,9 @@
 //#define SPI_ETHERNET_SETTINGS SPISettings(30000000, MSBFIRST, SPI_MODE0)
 
 
-// Require Ethernet.h, because we need MAX_SOCK_NUM
+// Require M5_Ethernet.h, because we need MAX_SOCK_NUM
 #ifndef ethernet_h_
-#error "Ethernet.h must be included before w5100.h"
+#error "M5_Ethernet.h must be included before w5100.h"
 #endif
 
 
